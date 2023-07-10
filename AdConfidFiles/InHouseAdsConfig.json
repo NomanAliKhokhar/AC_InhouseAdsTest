@@ -21,6 +21,19 @@
 			"iconCounter": 0,
 			"videoURLs": [],
 			"videoCounter": 0
+		},
+		{
+			"adUsageStatus": 0,
+			"iH_AdType": 0,
+			"gameName": "Ice Cream Roll!",
+			"bundleId": "com.icr.icecreamroll",
+			"ios_ApId": "1659269562",
+			"gameURL": "",
+			"url_IOS": "https://apps.apple.com/us/app/ice-cream-roll/id1659269562",
+			"iconURLs": ["https://raw.githubusercontent.com/NomanAliKhokhar/AC_InhouseAdsTest/main/AdImages/comming_to_bed_01.png"],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
 		}
 	
 	],
