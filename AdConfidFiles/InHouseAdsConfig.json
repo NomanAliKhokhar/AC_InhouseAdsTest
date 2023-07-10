@@ -1,0 +1,29 @@
+{
+	"IsEnabled": false,
+	"AdRefreshTime": 6,
+	"buttonNames": [
+		"Try Now",
+		"Get It",
+		"Try It",
+		"Download"
+	],
+	"inHouseSingleDatas": [
+	
+	    {
+			"adUsageStatus": 0,
+			"iH_AdType": 0,
+			"gameName": "Coming to Bed",
+			"bundleId": "com.appcentral.commingtobed",
+			"ios_ApId": "1598877756",
+			"gameURL": "",
+			"url_IOS": "https://apps.apple.com/us/app/coming-to-bed/id1598877756",
+			"iconURLs": ["https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/90/38/93903897-fd44-f81d-3239-8fbd7245ec73/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp"],
+			"iconCounter": 0,
+			"videoURLs": [],
+			"videoCounter": 0
+		},
+		
+		
+	],
+	"bundleCounter": 0
+}
