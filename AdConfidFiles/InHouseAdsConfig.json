@@ -1,6 +1,6 @@
 {
 	"IsEnabled": false,
-	"AdRefreshTime": 30,
+	"AdRefreshTime": 5,
 	"buttonNames": [
 		"Try Now",
 		"Get It",
@@ -11,7 +11,7 @@
 	
 	    {
 			"adUsageStatus": 0,
-			"iH_AdType": 0,
+			"inHouseAdPriority": 0,
 			"gameName": "Coming to Bed",
 			"bundleId": "com.appcentral.commingtobed",
 			"ios_ApId": "1598877756",
@@ -24,7 +24,7 @@
 		},
 		{
 			"adUsageStatus": 0,
-			"iH_AdType": 0,
+			"inHouseAdPriority": 1,
 			"gameName": "Ice Cream Roll!",
 			"bundleId": "com.icr.icecreamroll",
 			"ios_ApId": "1659269562",
